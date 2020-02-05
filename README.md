@@ -3,4 +3,4 @@ Demonstration in lecture
 
 Here is some stuff
 
-I want to make some rqandom changes to my code
+I want to make some random changes to my code
